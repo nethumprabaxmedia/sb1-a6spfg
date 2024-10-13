@@ -1,0 +1,10 @@
+Subscription-based SaaS|A model where customers pay a recurring fee to access software services, often with tiered pricing based on features or usage.|software development, customer service, marketing
+E-commerce marketplace|An online platform that facilitates buying and selling between multiple third-party sellers and customers, taking a commission on each transaction.|web development, logistics, customer support
+Freemium model|Offering basic services for free while charging for premium features, attracting a large user base and converting a portion to paying customers.|product development, user acquisition, data analysis
+Consulting services|Providing expert advice and solutions to businesses or individuals, often charging hourly rates or project-based fees.|industry expertise, communication, problem-solving
+Franchise business|A model where the right to use a business's name, products, and processes is sold to franchisees, who operate individual locations.|business management, training, brand development
+Dropshipping|An e-commerce model where the seller doesn't keep products in stock but instead transfers customer orders to a manufacturer or wholesaler for shipping.|digital marketing, supply chain management, customer service
+Affiliate marketing|Earning commissions by promoting other companies' products or services through unique referral links or codes.|content creation, digital marketing, networking
+On-demand services|Providing services to customers as needed, often through a mobile app or online platform, such as ride-sharing or food delivery.|mobile app development, logistics, customer support
+Peer-to-peer platform|Facilitating transactions or sharing of resources directly between individuals, taking a fee for connecting users.|platform development, community management, trust and safety
+Advertising-supported model|Offering free content or services to users while generating revenue through advertising displayed to the audience.|content creation, ad sales, audience growth
